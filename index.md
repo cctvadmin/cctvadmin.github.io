@@ -2,7 +2,7 @@
 
 你应该不会爱上这里，因为这里是空的
 
-[Image](1008367a212eb6df.jpg)
+(1008367a212eb6df.jpg)
 
 
 ### Markdown
