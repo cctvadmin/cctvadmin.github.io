@@ -1,7 +1,7 @@
 ### 欢迎来到cctvadmin在Github上的博客
 
 你应该不会爱上这里，因为这里是空的
-
+![](1008367a212eb6df.jpg)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
