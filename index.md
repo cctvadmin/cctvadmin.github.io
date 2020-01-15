@@ -15,12 +15,12 @@
 -----------------------------------------------------  
   
   
-## 钢琴的项目在[**这里**](http://github.com/cctvadmin/PianoCopy)开源  
+## 钢琴的项目在[**这里**](http://github.com/cctvadmin/Piano)开源  
   
   
-### 下载可执行程序[.exe](http://github.com/cctvadmin/PianoCopy) [^Piano.exe]  
+### 下载可执行程序[.exe](http://github.com/cctvadmin/Piano) Piano.exe
   
-### 下载压缩包[.zip](http://github.com/cctvadmin/PianoCopy) [^Piano.zip]  
+### 下载压缩包[.zip](http://github.com/cctvadmin/Piano) Piano.zip 
   
   
   
@@ -33,7 +33,11 @@
   
 ![](staff.png)  
   
+  ![](sea.png) 
+## 还可以自定义主题  不过我懒的加
+
+  ![](sea.png) 
   
-## 还可以自定义主题  
+  你可以给我致邮箱:[2075383131](https://qm.qq.com/cgi-bin/qm/qr?k=xcu0uvyYc_Rsp0zk4ZYqvKl4XyppGEyV)
   
-![](customTheme.png)  
+  Github:[cctvadmin](https://github.com/cctvadmin/)
