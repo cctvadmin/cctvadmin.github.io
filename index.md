@@ -9,18 +9,19 @@
   
 如果你不嫌麻烦，可以在[**这里**](weixin.png) 给我赞助  
   
-  
+  项目经历了13天,数据丢失三次,总代码量5622,损失代码量约2000+
+  全程仅一人制作,包括:软件,前端,配置,PS,音频,脚本
   
   
 -----------------------------------------------------  
   
-  
+  **开源时间:*2020/1/16/ 8:10* **
 ## 钢琴的项目在[**这里**](http://github.com/cctvadmin/Piano)开源  
   
+  **上传时间:*2020/1/16/ 12:00* **
+### 下载可执行程序[.exe](http://github.com/cctvadmin/Piano/Piano.exe) Piano.exe
   
-### 下载可执行程序[.exe](http://github.com/cctvadmin/Piano) Piano.exe
-  
-### 下载压缩包[.zip](http://github.com/cctvadmin/Piano) Piano.zip 
+### 下载压缩包[.zip](http://github.com/cctvadmin/Piano/Piano.zip) Piano.zip 
   
   
   
