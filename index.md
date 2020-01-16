@@ -37,7 +37,11 @@
   ![](sea.png) 
 ## 还可以自定义主题  不过我懒的加
 
-  ![](sea.png) 
+  ![](sea.png)   
+  
+## 安装界面如下:  
+
+  ![](install.png)   
   
   你可以给我致邮箱:[2075383131](https://qm.qq.com/cgi-bin/qm/qr?k=xcu0uvyYc_Rsp0zk4ZYqvKl4XyppGEyV)
   
