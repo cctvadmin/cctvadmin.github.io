@@ -19,9 +19,9 @@
 ## 钢琴的项目在[**这里**](http://github.com/cctvadmin/Piano)开源  
   
   **上传时间:*2020/1/16/ 12:00***
-### 下载可执行程序[.exe](http://managerisznh.zicp.vip) Piano.exe
+### 下载可执行程序[.exe](http://121.41.8.66) Piano.exe
   
-### 下载压缩包[.zip](http://managerisznh.zicp.vip) Piano.zip 
+### 下载压缩包[.zip](http://www.admin.ren) Piano.zip 
   
   
   
