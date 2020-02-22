@@ -9,39 +9,16 @@
   
 如果你不嫌麻烦，可以在[**这里**](weixin.png) 给我赞助  
   -----------------------------------------------------  
-  项目经历了13天,数据丢失三次,总代码量5622,损失代码量约2000+  
-  全程仅一人制作,包括:软件,前端,配置,PS,音频,脚本  
-  
-  
------------------------------------------------------  
-  
-  **开源时间:*2020/1/16/ 8:10***
-## 钢琴的项目在[**这里**](http://github.com/cctvadmin/Piano)开源  
-  
-  **上传时间:*2020/1/16/ 12:00***
-### 下载可执行程序[.exe](http://121.41.8.66) Piano.exe
-  
-### 下载压缩包[.zip](http://www.admin.ren) Piano.zip 
-  
-  
-  
-**这是默认运行界面：**  
-  
-![](default.png)  
-  
-  
-**这是自带的主题效果：**  
-  
-![](staff.png)  
-  
-  ![](sea.png) 
-## 还可以自定义主题  不过我懒的加
-
-  ![](sea.png)   
-  
-## 安装界面如下:  
-
-  ![](install.png)   
+  # 2020/2/22更新
+### &nbsp;&nbsp;&nbsp;&nbsp;1.解决了窗口切换问题，集成接口的实现,以及窗口出现延迟的线程等待动画，优化了string储存
+* 为了解决加载事件，2020/02/22添加了窗口的等待事件，统一使用  
+* new LoadingForm().showDialog_Loading()方法加载线程使用  
+* 由于string的储存机制不满足存储需求，更新采用了StringBuilder  
+* 在H5Class类中，存放了所有HTML的代码以及处理逻辑
+* interfaceIMPL接口可以提供实现窗口加载事件，窗口加载禁止使用Form.Show()，可以通过其实现类interfaceImplClass的showForm(Form form)，hideForm(Form form)，indexShowForm(int index)  
+## 后续
+* 后续将陆续开放自定义HTML,CSS,SCSS,JS
+* 招募开发团队：（<strong>*AmateurTeam*</strong>）,请看[http://www.adminznh.ren](http://www.adminznh.ren "CACode官博")
   
   你可以给我致邮箱:[2075383131](https://qm.qq.com/cgi-bin/qm/qr?k=xcu0uvyYc_Rsp0zk4ZYqvKl4XyppGEyV)
   
