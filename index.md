@@ -25,6 +25,10 @@
 * 面下大众开发，有任何疑问或建议可以[联系我](tencent://message/?Menu=yes&uin=2075383131&Service=300&sigT=45a1e5847943b64c6ff3990f8a9e644d2b31356cb0b4ac6b24663a3c8dd0f8aa12a595b1714f9d45 "打开临时会话")
 * 团队新增四人[点击链接加入群聊[CACode网页生成器]:](https://jq.qq.com/?_wv=1027&k=5d6hNJT)
  ----  
+# 2020/2/24 22:34新思路
+#### 新思路:
+* 将每一个窗口每一个任务为单独一个线程执行
+----
   你可以给我致邮箱:[2075383131@qq.com](tencent://message/?Menu=yes&uin=2075383131&Service=300&sigT=45a1e5847943b64c6ff3990f8a9e644d2b31356cb0b4ac6b24663a3c8dd0f8aa12a595b1714f9d45)
   
   Github:[cctvadmin](https://github.com/cctvadmin/)
