@@ -5,12 +5,6 @@
 <link rel="canonical" href="https://cctvadmin.github.io/">
 <meta property="og:url" content="https://cctvadmin.github.io/">
 <meta property="og:site_name" content="cctvadmin.github.io">
-<script type="application/ld+json">
-<!-- End Jekyll SEO tag -->
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <link rel="stylesheet" href="./欢迎来到cctvadmin在Github上的博客 _ cctvadmin.github.io_files/style.css">
   </head>
   <body>
     <section class="page-header">
