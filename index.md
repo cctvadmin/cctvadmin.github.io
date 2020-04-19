@@ -12,7 +12,6 @@
 <meta property="og:url" content="https://cctvadmin.github.io/">
 <meta property="og:site_name" content="cctvadmin.github.io">
 <script type="application/ld+json">
-{"headline":"欢迎来到cctvadmin在Github上的博客","@type":"WebSite","url":"https://cctvadmin.github.io/","name":"cctvadmin.github.io","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
