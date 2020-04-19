@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <!-- saved from url=(0028)https://cctvadmin.github.io/ -->
 <html lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    
-
-<!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>欢迎来到cctvadmin在Github上的博客 | cctvadmin.github.io</title>
-<meta name="generator" content="Jekyll v3.8.5">
-<meta property="og:title" content="欢迎来到cctvadmin在Github上的博客">
 <meta property="og:locale" content="en_US">
 <link rel="canonical" href="https://cctvadmin.github.io/">
 <meta property="og:url" content="https://cctvadmin.github.io/">
